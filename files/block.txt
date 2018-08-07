@@ -26,3 +26,11 @@ www.brilio.net##.fixed-right
 www.brilio.net##.body-paragraph > .detail-box
 www.brilio.net##.sosmed-box
 www.brilio.net##.remodal-overlay
+!
+! pixiv
+www.pixiv.net##.hover-item.ad-printservice.upload
+www.pixiv.net##.popular-introduction-block
+www.pixiv.net##.popular-introduction > ._image-items
+!
+! miui forums' medals is an eye cancer
+en.miui.com##.md_ctrl
