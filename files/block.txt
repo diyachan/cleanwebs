@@ -18,3 +18,8 @@ www.brilio.net##.banner-creator.banner-detail
 www.brilio.net##.container.section-full
 www.brilio.net##.tag-section
 www.brilio.net###load-more
+www.brilio.net##.body-paragraph > .detail-box
+www.brilio.net##.share-pinterest
+www.brilio.net##div.detail-box:nth-of-type(11) > .title-border
+www.brilio.net##.fixed-right
+www.brilio.net##.body-paragraph > .detail-box
