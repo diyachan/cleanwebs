@@ -25,3 +25,4 @@ www.brilio.net##div.detail-box:nth-of-type(11) > .title-border
 www.brilio.net##.fixed-right
 www.brilio.net##.body-paragraph > .detail-box
 www.brilio.net##.sosmed-box
+www.brilio.net##.remodal-overlay
