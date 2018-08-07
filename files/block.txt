@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/diyachan/cleanwebs
 ! Title: diyachan's cleanwebs
 ! Expires: 3 days (update frequency)
-! Version: 20170211
+! Version: 1
 !
 ! I hate Brilio with a passion
 www.brilio.net##.navbar-newsite
