@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Homepage: https://github.com/diyachan/cleanwebs
-! Title: cleanwebs
+! Title: diyachan's cleanwebs
 ! Expires: 3 days (update frequency)
 ! Version: 20170211
 ! I hate Brilio with a passion
