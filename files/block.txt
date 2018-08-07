@@ -3,6 +3,7 @@
 ! Title: diyachan's cleanwebs
 ! Expires: 3 days (update frequency)
 ! Version: 20170211
+!
 ! I hate Brilio with a passion
 www.brilio.net##.navbar-newsite
 www.brilio.net##.slider-owl
@@ -23,3 +24,4 @@ www.brilio.net##.share-pinterest
 www.brilio.net##div.detail-box:nth-of-type(11) > .title-border
 www.brilio.net##.fixed-right
 www.brilio.net##.body-paragraph > .detail-box
+www.brilio.net##.sosmed-box
