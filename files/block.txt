@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Homepage: https://github.com/diyachan/cleanwebs
+! Title: diyachan's cleanwebs
+! Expires: 3 days (update frequency)
+! Version: 20170211
+! I hate Brilio with a passion
+www.brilio.net##.navbar-newsite
+www.brilio.net##.slider-owl
+www.brilio.net##.header
+www.brilio.net##.list-unstyled.list-breadcrumb
+www.brilio.net##.wrapper-right
+www.brilio.net##.headline-detail > h6
+www.brilio.net##.clearfix.list-unstyled.list-tag-border
+www.brilio.net###promote_video_title
+www.brilio.net###video-mv
+www.brilio.net##.emoticon-box
+www.brilio.net##.banner-creator.banner-detail
+www.brilio.net##.container.section-full
+www.brilio.net##.tag-section
+www.brilio.net###load-more
