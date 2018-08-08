@@ -37,10 +37,14 @@ en.miui.com##.md_ctrl
 !
 ! kompas; nothing wrong, just don't want more articles
 kompas.com##.nav.clearfix.row
+!sidebar
 kompas.com##.col-bs10-3
+!suggested articles
 kompas.com##div.clearfix.mt2.row:nth-of-type(8)
 kompas.com##.ga--related.related__inline
 kompas.com##.read__tagging
 kompas.com##.kompas-widget
 kompas.com##.clearfix.footer__social
 ||widget.kompas.com/kompasiana_widget_read/
+kompas.com##.ga--comment
+kompas.com##.subscribe__wrap
