@@ -4,4 +4,4 @@ Cosmetic blocklist for sites that I deem annoying (read: my work forced me to op
 
 ## Usage
 
-Just add [this url](https://raw.githubusercontent.com/diyachan/cleanwebs/master/files/block.txt) (right-click and copy link) to your preferred adblocker.
+Just [hit this yeet](abp:subscribe?location=https://raw.githubusercontent.com/diyachan/cleanwebs/master/files/block.txt) to sub
