@@ -41,3 +41,6 @@ kompas.com##.col-bs10-3
 kompas.com##div.clearfix.mt2.row
 kompas.com##.ga--related.related__inline
 kompas.com##.read__tagging
+kompas.com@@.read__title
+kompas.com##.kompas-widget
+kompas.com##.clearfix.footer__social
