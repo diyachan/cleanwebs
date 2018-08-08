@@ -34,3 +34,10 @@ www.pixiv.net##.popular-introduction > ._image-items
 !
 ! miui forums' medals is an eye cancer
 en.miui.com##.md_ctrl
+!
+! kompas; nothing wrong, just don't want more articles
+kompas.com##.nav.clearfix.row
+kompas.com##.col-bs10-3
+kompas.com##div.clearfix.mt2.row
+kompas.com##.ga--related.related__inline
+kompas.com##.read__tagging
