@@ -52,3 +52,6 @@ kompas.com##.subscribe__wrap
 ! a friends said Vidio's live chat on Asian Games is pure cancer
 ! and unlike YouTube, you can't turn this off
 www.vidio.com##.livestreaming-discussion
+!
+! Viva
+viva.co.id##.right_expand-open.right_expand
